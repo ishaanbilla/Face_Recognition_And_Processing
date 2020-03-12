@@ -1,4 +1,4 @@
-# Image Recognition
+# Image Recognition And Processing
 Face recognition on still images using OpenCV in Python.
 
 The program can recognize human faces in still image using data set and show live results. It compares the information with a dataset of known faces to find a match. Facial recognition can help verify personal identity.
